@@ -44,7 +44,7 @@ alt="triquetra">
 footer.innerHTML = `
 
 <div class="footer_img">
-<img src="assets/imgs/LOGO_VERDE.JPEG" alt="logo_verde">
+<img src="assets/imgs/logo_verde.jpeg" alt="triqueta">
 </div>
 <div class="copyright">
 <h2><span></span>PROTEC</h2></a>Seguridad e Higiene<br>
